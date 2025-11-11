@@ -1,4 +1,4 @@
-# 3D Computer Vision Basics, 2025 Fall
+# 3D Computer Vision Basics, Fall Semester
 
 ## Overview
 1. Q1 (20 points): Basic stereo - Implement 2-view reconstruction

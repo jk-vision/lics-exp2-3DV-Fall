@@ -6,7 +6,7 @@
 * 1/28 - 奈良県立医科大学の見学
 
 ## Overview - From Pixels to 3D Worlds!
-## Final Report Deadline (within 2 pages A4): 1/31
+## Final Report Deadline (within 2 A4 pages): 1/31
 * **Brief description of your code (90pt)**
 $\rightarrow$ the algorithm followed with relevant equations + Visualization results
   * **Calibration (25pt)**
@@ -21,7 +21,6 @@ $\rightarrow$ the algorithm followed with relevant equations + Visualization res
   * **Depth to 3D colored point clouds (20pt)**
     * Code Explanation
     * Screenshot of the 3D Reconstruction from at least two views
-      * Sample images
 * **Try with Your own images (Optional, for additional 10pt)**
 
 

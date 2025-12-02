@@ -1,7 +1,28 @@
 # 3D Computer Vision Basics, Fall Semester
 
+## Schedule
+* 1/7 – Stereo Vision Part 1
+* 1/21 – Stereo Vision Part 2
+* 1/28 - 奈良県立医科大学の見学
+
 ## Overview - From Pixels to 3D Worlds!
-1. Q1 (20 points): Basic stereo - Implement 2-view reconstruction
-2. Q2 (40 points): Implement Incremental Structure-from-Motion
-3. Q3 (40 points): Reconstruct your own scene
+## Final Report Deadline (within 2 pages A4): 1/31
+* **Brief description of your code (90pt)**
+$\rightarrow$ the algorithm followed with relevant equations + Visualization results
+  * **Calibration (25pt)**
+    * Code Explanation
+    * Report relative Pose: Rotation 𝑅 and Translation 𝑇 (from Camera 2 to Camera 1)
+  * **Image Rectification (25pt)**
+    * Code Explanation
+    * Visualization of rectified images 
+  * **Correspondence Search + Depth Estimation (20pt)**
+    * Code Explanation
+    * Visualization of Disparity and Depth Maps
+  * **Depth to 3D colored point clouds (20pt)**
+    * Code Explanation
+    * Screenshot of the 3D Reconstruction from at least two views
+      * Sample images
+* **Try with Your own images (Optional, for additional 10pt)**
+
+
 

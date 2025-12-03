@@ -23,15 +23,15 @@ Students will learn the mathematical and computational foundations behind stereo
   * Preparing 2D–3D correspondences of a checkerboard: https://docs.opencv.org/4.x/dc/dbb/tutorial_py_calibration.html
   * General Documentation for Camera Calibration + 3D Reconstruction: https://docs.opencv.org/4.x/d9/d0c/group__calib3d.html
 
-### Final Report (within 2 A4 pages): 1/31
+## Final Report (within 2 A4 pages): 1/31
 * **Brief description of your code (90pt)**
 $\rightarrow$ the algorithm you implemented, relevant equations, and visualization results
   * **Calibration (25pt)**
     * Code Explanation
-    * Report relative Pose: Rotation 𝑅 and Translation 𝑇 (from Camera 2 to Camera 1)
+    * Report Relative Pose: Rotation 𝑅 and Translation 𝑇 (from Camera 2 to Camera 1)
   * **Image Rectification (25pt)**
     * Code Explanation
-    * Visualization of rectified image pairs
+    * Visualization of Rectified Image Pairs
   * **Correspondence Search + Depth Estimation (20pt)**
     * Code Explanation
     * Visualization of Disparity and Depth Maps

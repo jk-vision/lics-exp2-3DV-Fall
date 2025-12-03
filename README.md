@@ -16,7 +16,7 @@ Students will learn the mathematical and computational foundations behind stereo
 ### Requirements
 * A Gmail Account $\rightarrow$ To run Google Colab 
 * Basic knowledge of linear algebra
-* Main Python packages used in this course (available in Google Colab): NumPy, OpenCV, Matplotlib
+* Main Python packages used in this course (available in Google Colab): NumPy, OpenCV, Matplotlib, Plotly
 
 ### Final Report (within 2 A4 pages): 1/31
 * **Brief description of your code (90pt)**

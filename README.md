@@ -18,6 +18,11 @@ Students will learn the mathematical and computational foundations behind stereo
 * Basic knowledge of linear algebra
 * Main Python packages used in this course (available in Google Colab): NumPy, OpenCV, Matplotlib, Plotly
 
+### References
+* OpenCV documentation:
+  * Preparing 2D–3D correspondences of a checkerboard: https://docs.opencv.org/4.x/dc/dbb/tutorial_py_calibration.html
+  * General Documentation for Camera Calibration + 3D Reconstruction: https://docs.opencv.org/4.x/d9/d0c/group__calib3d.html
+
 ### Final Report (within 2 A4 pages): 1/31
 * **Brief description of your code (90pt)**
 $\rightarrow$ the algorithm you implemented, relevant equations, and visualization results
@@ -35,5 +40,4 @@ $\rightarrow$ the algorithm you implemented, relevant equations, and visualizati
     * Screenshot of the 3D Reconstruction from at least two views
 * **Try the full pipeline on your own images (Optional, for additional 10pt)**
 
-
-
+<img width="1259" height="39" alt="image" src="https://github.com/user-attachments/assets/558b0baf-cf21-4de1-8ece-98d52d5ef331" />

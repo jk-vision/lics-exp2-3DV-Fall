@@ -1,0 +1,7 @@
+camera_intrinsic_K:
+- [350.0, 0.0, 214.0]
+- [0.0, 350.0, 285.5]
+- [0.0, 0.0, 1.0]
+distortion_coeffs_D: [0.0, 0.0, 0.0, 0.0]
+image_height: 571
+image_width: 428

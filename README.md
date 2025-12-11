@@ -4,7 +4,7 @@
 * 1/7 – Stereo Vision Part 1
 * 1/21 – Stereo Vision Part 2
 * 1/28 - 奈良県立医科大学の見学
-* **1/31 - Final Report Deadline (submitted via LMS)**
+* **1/31 23:59 JST - Final Report Deadline (submitted via LMS)**
 
 ## Overview - From Pixels to 3D Worlds!
 This course introduces the fundamental principles of 3D computer vision, exploring how images captured by cameras can be transformed into meaningful 3D reconstructions. 
@@ -24,7 +24,7 @@ Students will learn the mathematical and computational foundations behind stereo
   * Preparing 2D–3D correspondences of a checkerboard: https://docs.opencv.org/4.x/dc/dbb/tutorial_py_calibration.html
   * General Documentation for Camera Calibration + 3D Reconstruction: https://docs.opencv.org/4.x/d9/d0c/group__calib3d.html
 
-## Final Report (within 2 A4 pages): 1/31
+## Final Report (within 2 A4 pages): 1/31 23:59 JST
 * **Brief description of your code (90pt)**
 $\rightarrow$ the algorithm you implemented, relevant equations, and visualization results
   * **Calibration (25pt)**

@@ -29,7 +29,7 @@ Students will learn the mathematical and computational foundations behind stereo
 $\rightarrow$ the algorithm you implemented, relevant equations, and visualization results
   * **Calibration (25pt)**
     * Code Explanation
-    * Report Relative Pose: Rotation 𝑅 and Translation 𝑇 (from Camera 2 to Camera 1)
+    * Report Relative Pose (from Camera 2 to Camera 1): Rotation 𝑅 (3x3 matrix) and Translation 𝑇 (3x1 matrix)
   * **Image Rectification (25pt)**
     * Code Explanation
     * Visualization of Rectified Image Pairs

@@ -25,7 +25,7 @@ Students will learn the mathematical and computational foundations behind stereo
   * General Documentation for Camera Calibration + 3D Reconstruction: https://docs.opencv.org/4.x/d9/d0c/group__calib3d.html
 
 ## Final Report (within 2 A4 pages): 1/31 23:59 JST
-* **Brief description of your code (90pt)**
+* **Your code (.ipynb) + Brief description of your code (.pdf) (90pt)**
 $\rightarrow$ the algorithm you implemented, relevant equations, and visualization results
   * **Calibration (25pt)**
     * Code Explanation

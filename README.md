@@ -4,7 +4,7 @@
 * 1/7 – Stereo Vision Part 1
 * 1/21 – Stereo Vision Part 2
 * 1/28 - 奈良県立医科大学の見学
-* **1/31 23:59 JST - Final Report Deadline (submitted via LMS)**
+* **1/31 23:59 JST - Final Report + Code Deadline (submitted via LMS)**
 
 ## Overview - From Pixels to 3D Worlds!
 This course introduces the fundamental principles of 3D computer vision, exploring how images captured by cameras can be transformed into meaningful 3D reconstructions. 

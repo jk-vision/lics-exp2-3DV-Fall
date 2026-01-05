@@ -1,4 +1,4 @@
-# 3D Computer Vision Basics, 2025 Fall Semester
+# 3D Computer Vision Basics, Fall Semester
 
 ## Schedule
 * 1/7 – Stereo Vision Part 1

@@ -40,5 +40,6 @@ $\rightarrow$ the algorithm you implemented, relevant equations, and visualizati
     * Code Explanation
     * Screenshot of the 3D Reconstruction from at least two views
 * **Try the full pipeline on your own images (Optional, for additional 10pt)**
+  * Screenshot of the 3D Reconstruction from at least two views
 
 <img width="1259" height="39" alt="image" src="https://github.com/user-attachments/assets/558b0baf-cf21-4de1-8ece-98d52d5ef331" />

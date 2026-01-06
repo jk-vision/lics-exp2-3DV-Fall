@@ -10,7 +10,7 @@
 This course introduces the fundamental principles of 3D computer vision, exploring how images captured by cameras can be transformed into meaningful 3D reconstructions. 
 Students will learn the mathematical and computational foundations behind stereo vision and its real-world applications.
 <p align="center">
-<img width="781" height="322" alt="Screenshot 2025-11-12 at 12 05 33 PM" src="https://github.com/user-attachments/assets/2fcce131-2a5c-46c9-8437-0db8752b6121" />
+<img width="781" height="322" alt="Screenshot 2026-01-06 at 12 19 58 PM" src="https://github.com/user-attachments/assets/30e3ff1e-559d-4074-b4f0-da13bc3b8b74" />
 </p>
 
 ### Requirements
@@ -42,4 +42,5 @@ $\rightarrow$ the algorithm you implemented, relevant equations, and visualizati
 * **Try the full pipeline on your own images (Optional, for additional 10pt)**
   * Screenshot of the 3D Reconstruction from at least two views
 
-<img width="1259" height="39" alt="image" src="https://github.com/user-attachments/assets/558b0baf-cf21-4de1-8ece-98d52d5ef331" />
+<img width="1108" height="33" alt="Screenshot 2026-01-06 at 12 21 23 PM" src="https://github.com/user-attachments/assets/ae2e859a-7d2f-4942-9dff-eabe123e5d2f" />
+

@@ -19,6 +19,7 @@ Students will learn the mathematical and computational foundations behind stereo
 * Main Python packages used in this course (available in Google Colab): NumPy, OpenCV, Matplotlib, Plotly
 
 ### References
+* [Numpy Note](python_numpy_note.md)
 * Numpy documentation: https://numpy.org/doc/2.3/user/absolute_beginners.html
 * OpenCV documentation:
   * Preparing 2D–3D correspondences of a checkerboard: https://docs.opencv.org/4.x/dc/dbb/tutorial_py_calibration.html
